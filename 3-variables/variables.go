@@ -17,7 +17,7 @@ func main() {
 	fmt.Println(e)
 
 	f := "apple"
-	fmt.Println(f)
+	fmt.Println(f)// similar to var f string = "apple"
 
 	g := 2
 	fmt.Println(g) //okay so the type is inferred with the := syntax
