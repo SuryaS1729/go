@@ -18,4 +18,7 @@ func main() {
 
 	f := "apple"
 	fmt.Println(f)
+
+	g := 2
+	fmt.Println(g) //okay so the type is inferred with the := syntax
 }
